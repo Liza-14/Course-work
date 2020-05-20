@@ -1,0 +1,30 @@
+{    
+   "filesToCompress": [
+        {
+            "sourcePath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\SourceFiles\\test.html",
+            "outputPath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\CompressedFiles\\test.html"
+        },
+        {
+            "sourcePath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\SourceFiles\\styles.css",
+            "outputPath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\CompressedFiles\\styles.css"
+        },
+        {
+            "sourcePath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\SourceFiles\\script.js",
+            "outputPath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\CompressedFiles\\script.js"
+        }
+    ],
+   "filesToDecompress": [
+    {
+        "sourcePath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\CompressedFiles\\test.html",
+        "outputPath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\DecompressedFiles\\test.html"
+    },
+    {
+        "sourcePath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\CompressedFiles\\styles.css",
+        "outputPath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\DecompressedFiles\\styles.css"
+    },
+    {
+        "sourcePath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\CompressedFiles\\script.js",
+        "outputPath": "C:\\Users\\boroda\\Desktop\\WebCompressor\\WebCompressor\\ExampleFiles\\DecompressedFiles\\script.js"
+    }
+    ]
+}

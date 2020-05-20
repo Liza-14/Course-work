@@ -1,0 +1,14 @@
+{    
+   "filesToCompress": [
+        {
+            "sourcePath": "",
+            "outputPath": ""
+        }
+    ],
+   "filesToDecompress": [
+        {
+            "sourcePath": "",
+            "outputPath": ""
+        }
+    ]
+}
